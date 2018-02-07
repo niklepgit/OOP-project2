@@ -1,0 +1,9 @@
+USA 1 2 10 10
+Greece 2 2 10 10
+France 3 1 10 10
+USA 4 2 10 10
+Africa 5 2 10 10
+Greece 6 1 10 10
+Albania 6 2 10 10
+France 3 2 10 10
+

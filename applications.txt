@@ -1,0 +1,66 @@
+
+46541 Nikolas Kalpakidis USA 0 4 A
+12345 Nikolas Lepidas USA 0 5 A
+12346 Nikolas Liakopoulos USA 1 3 A
+34547 Dionisis Tzamakos USA 1 3 A
+34548 Dionisis Strong USA 1 3 A
+687534 Ayako Pane USA 0 4 A
+546511 Dominique Mcpeters USA 0 4 A 
+685412 Oda Morrisette USA 0 4 A 
+486151 Julius Obannon USA 1 3 B 
+262548 Georgetta Knittel USA 1 3 B   
+641867 Lorene Parmer USA 1 3 B  
+458964 Lyndsay Caggiano USA 1 3 B   
+416818 Karon Foster USA 1 3 B
+
+123 Mohamed Rosborough Africa 4 8 A 
+545 Darrick Stallcup Africa 4 8 A  
+138 Kellye Ochs Africa 4 9 A   
+185 Rosia Finlay Africa 4 8 A  
+181 Ashlie Iriarte Africa 4 8 A   
+5468 Jefferson Gledhill Africa 4 8 A  
+5483 Loria Grogan Africa 4 9 A  
+4186 Theresia Aiello Africa 4 9 B 
+4462 Sherlyn Cuthbertson Africa 4 8 B  
+1531 Chelsie Desimone Africa 4 8 B  
+
+4185 Ian Dominy Grecce 1 7 A 
+4168 Scotty Schaub Grecce 1 7 A  
+4865 Vincenzo Mcnear Grecce 1 7 A   
+6578 Chase Dimatteo Grecce 0 6 B  
+6564 Randolph Kerr Grecce 0 6 B   
+1236 Mohammed Westerman Grecce 0 6 B   
+7845 Alonzo Reifsteck Grecce 0 6 B   
+4545 Joesph Meder Grecce 0 6 B    
+54541 Emory Grogg Grecce 1 7 A  
+46414 Zane Trojan Grecce 1 7 A
+
+484845 Ian Dominy Albania 2 8 A
+545125 Scotty Schaub Albania 2 8 A 
+545155 Vincenzo Mcnear Ablania 2 8 A
+418152 Chase Dimatteo Albania 3 9 B  
+546545 Randolph Kerr Albania 3 9 B   
+153125 Mohammed Westerman Albania 3 9 B   
+455455 Alonzo Reifsteck Albania 3 9 B   
+
+
+23456 Giannis Ioannou Greece 1 5 A
+45435 Giannis Lepidas Greece 1 6 A
+78204 Giannis Ioannou Greece 2 5 B
+56481 Kostas Georgiou Italy 10 15 A
+45816 Nikos Soulounias Brazil 3 8 A
+16574 Giorgos Liakopoulos Africa 4 8 A
+54984 Manolis Lykos Albania 6 9 A
+45046 Giorgos Lykos Albania 6 10 B
+87963 Nikolas Lep Albania 4 5 B
+46431 Leonidas Soulounias Africa 4 6 A
+75468 Orestis Soulounias Germany 7 8 B
+87464 Giannis Sidiropoulos Germany 7 8 A
+68463 Lianna Stefatou France 4 9 B
+79845 Iliana Ioannou France 4 8 B
+68462 Giorgos Georgiou Greece 5 9 B
+45508 Giannis Giannopoulos Germany 7 9 B
+49846 Nikos Lekkas France 9 13 B
+68431 Nikos Lamprinos Africa 4 9 A
+67638 Giorgos Liakopoulos Albania 10 14 B
+
